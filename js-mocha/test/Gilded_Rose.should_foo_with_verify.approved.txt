@@ -1,7 +1,7 @@
 [
   {
-    "name": "foo",
-    "quality": 0,
-    "sellIn": -1
+    "name": "Aged Brie",
+    "quality": 1,
+    "sellIn": 1
   }
 ]
